@@ -1,0 +1,79 @@
+{
+  "hoodies": [
+    null,
+    {
+      "about": "A hoodie is a casual piece of clothing, typically made from soft, comfortable fabric like cotton or a cotton blend. It features long sleeves and a hood at the back, which often includes adjustable drawstrings. Hoodies are popular for their relaxed fit and versatility, making them a go-to choice for everyday wear, workouts, or chilly weather",
+      "image": "https://i.postimg.cc/mrtMy0XJ/hoodi3.png",
+      "name": "Cool Hoodie",
+      "price": 30,
+      "product_id": "1",
+      "size": "M"
+    },
+    {
+      "about": "A hoodie is a casual piece of clothing, typically made from soft, comfortable fabric like cotton or a cotton blend. It features long sleeves and a hood at the back, which often includes adjustable drawstrings. Hoodies are popular for their relaxed fit and versatility, making them a go-to choice for everyday wear, workouts, or chilly weather",
+      "image": "https://i.postimg.cc/mrtMy0XJ/hoodi3.png",
+      "name": "Warm Hoodie",
+      "price": 40,
+      "product_id": "2",
+      "size": "L"
+    },
+    {
+      "about": "A hoodie is a casual piece of clothing, typically made from soft, comfortable fabric like cotton or a cotton blend. It features long sleeves and a hood at the back, which often includes adjustable drawstrings. Hoodies are popular for their relaxed fit and versatility, making them a go-to choice for everyday wear, workouts, or chilly weather",
+      "image": "https://i.postimg.cc/9FhdHg0w/hoodi2.png",
+      "name": "Stylish Hoodie",
+      "price": 50,
+      "product_id": "3",
+      "size": "XL"
+    },
+    {
+      "about": "A hoodie is a casual piece of clothing, typically made from soft, comfortable fabric like cotton or a cotton blend. It features long sleeves and a hood at the back, which often includes adjustable drawstrings. Hoodies are popular for their relaxed fit and versatility, making them a go-to choice for everyday wear, workouts, or chilly weather",
+      "image": "https://i.postimg.cc/brdRDZXD/newhood.png",
+      "name": "Classic Hoodie",
+      "price": 35,
+      "product_id": "4",
+      "size": "S"
+    },
+    {
+      "image": "https://i.postimg.cc/qR3SThK6/5.png",
+      "name": "Modern Hoodie",
+      "price": 55,
+      "product_id": "5",
+      "size": "M"
+    },
+    {
+      "image": "https://i.postimg.cc/T1mKg9D2/6.png",
+      "name": "Vintage Hoodie",
+      "price": 45,
+      "product_id": "6",
+      "size": "L"
+    },
+    {
+      "image": "https://i.postimg.cc/L69SzDfy/7.png",
+      "name": "Sporty Hoodie",
+      "price": 60,
+      "product_id": "7",
+      "size": "XL"
+    },
+    {
+      "image": "https://i.postimg.cc/t4mV0Ypj/8.png",
+      "name": "Comfy Hoodie",
+      "price": 25,
+      "product_id": "8",
+      "size": "S"
+    },
+    {
+      "image": "https://i.postimg.cc/SKYRB4y1/9.png",
+      "name": "Trendy Hoodie",
+      "price": 65,
+      "product_id": "9",
+      "size": "M"
+    },
+    {
+      "image": "https://i.postimg.cc/Y9yXh1cC/10.png",
+      "name": "Lightweight Hoodie",
+      "price": 20,
+      "product_id": "10",
+      "size": "L"
+    }
+  ]
+}
